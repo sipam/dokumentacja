@@ -1,12 +1,10 @@
 title: "Dokumentacja SIPAM"
 remote_theme: pmarsceill/just-the-docs
 
+aux_links_new_tab: true
 aux_links:
   "SIPAM":
     - "https://sipam.gov.pl"
-
-# Footer content, appears at the bottom of every page's main content
-footer_content: "Dokumentacja SIPAM."
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
