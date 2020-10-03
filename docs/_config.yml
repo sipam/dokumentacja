@@ -1,2 +1,6 @@
 title: "Dokumentacja SIPAM"
 remote_theme: pmarsceill/just-the-docs
+
+aux_links:
+  "SIPAM":
+    - "https://sipam.gov.pl"
